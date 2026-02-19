@@ -15,25 +15,20 @@
 
 ### 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithms11@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%2300C4CC.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/user_harshith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithms11@gmail.com)
+
 
 ### 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ### 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=user-harshith&show_icons=true&theme=transparent&title_color=00c4cc&icon_color=00c4cc&text_color=ffffff&outline_color=00c4cc&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=user-harshith&show_icons=true&theme=transparent&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&outline_color=00ffcc&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=user-harshith&theme=transparent&currStreakNum=00c4cc&sideLabels=00c4cc&sideNums=ffffff&dates=ffffff&ring=00c4cc&fire=00c4cc&stroke=00c4cc)
+<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=user-harshith&theme=transparent&title_color=00c4cc&text_color=ffffff&layout=compact)
-
-</div>
-
-![](https://github-readme-stats.vercel.app/api?username=user-harshith&show_icons=true&theme=transparent&title_color=00c4cc&icon_color=00c4cc&text_color=ffffff&outline_color=00c4cc&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=user-harshith&theme=transparent&currStreakNum=00c4cc&sideLabels=00c4cc&sideNums=ffffff&dates=ffffff&ring=00c4cc&fire=00c4cc&stroke=00c4cc)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=user-harshith&theme=transparent&title_color=00c4cc&text_color=ffffff&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=user-harshith&theme=transparent&currStreakNum=00ffcc&sideLabels=00ffcc&sideNums=ffffff&dates=ffffff&ring=00ffcc&fire=00ffcc&stroke=00ffcc)
 
 </div>
