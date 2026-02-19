@@ -3,9 +3,9 @@
 # Hi 👋, I'm Harshith M
 ### LEARNING
 
-![Profile views](https://komarev.com/ghpvc/?username=user-harshith&color=00c4cc&style=flat-square&label=Profile+views)
-
 </div>
+
+![Profile views](https://komarev.com/ghpvc/?username=user-harshith&color=00c4cc&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
@@ -15,11 +15,10 @@
 
 ### 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithms11@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%2300C4CC.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/user_harshith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithms11@gmail.com)
 
 
 ### 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white)
 
 
 ### 📊 GitHub Stats:
