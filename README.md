@@ -25,8 +25,6 @@
 
 ---
 
-
-
 <h2>🌐 My PORTFOLIO</h2>
 
 <p>
@@ -46,7 +44,7 @@
 <br>
 
 <a href="https://snpsu.dpdns.org/">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=4C1D95"/>
 </a>
 
 <br><br>
@@ -60,10 +58,11 @@
 <br>
 
 <a href="https://snpsu.dpdns.org/">
-  <img src="https://img.shields.io/badge/↗%20Visit%20Website-161B22?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/↗%20Visit%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=020617"/>
 </a>
 
 </div>
+
 
 ---
 
