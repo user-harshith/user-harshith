@@ -35,33 +35,34 @@
 
 <br>
 
-<table>
+<table width="850" cellpadding="45" cellspacing="0">
 <tr>
-<td align="center" width="500">
+<td align="center">
+
+<h3>✦ Personal Portfolio &amp; Projects</h3>
 
 <p>
-<i>Personal Portfolio &amp; Projects</i>
+  <i>Projects&nbsp;&nbsp;•&nbsp;&nbsp;Skills&nbsp;&nbsp;•&nbsp;&nbsp;Work</i>
 </p>
-
-<br>
-
-<a href="https://snpsu.dpdns.org/">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=4C1D95"/>
-</a>
 
 <br><br>
 
-<sub>Projects&nbsp;&nbsp;•&nbsp;&nbsp;Skills&nbsp;&nbsp;•&nbsp;&nbsp;Work</sub>
+<a href="https://snpsu.dpdns.org/" target="_blank">
+<img
+  src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"
+  alt="Explore Portfolio"
+/>
+</a>
+
+<br><br><br>
+
+<p>
+  <sub>↗ Explore my personal portfolio</sub>
+</p>
 
 </td>
 </tr>
 </table>
-
-<br>
-
-<a href="https://snpsu.dpdns.org/">
-<img src="https://img.shields.io/badge/↗%20Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=020617"/>
-</a>
 
 </div>
 
