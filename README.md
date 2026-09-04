@@ -25,6 +25,8 @@
 
 ---
 
+<div align="center">
+
 <h2>🌐 My PORTFOLIO</h2>
 
 <p>
@@ -33,9 +35,9 @@
 
 <br>
 
-<table>
+<table style="border: 2px solid #8B5CF6; border-radius: 18px; width: 500px;">
 <tr>
-<td align="center" width="500">
+<td align="center" style="padding: 25px;">
 
 <p>
 <i>Personal Portfolio &amp; Projects</i>
@@ -43,8 +45,8 @@
 
 <br>
 
-<a href="https://snpsu.dpdns.org/">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=4C1D95"/>
+<a href="https://snpsu.dpdns.org/" target="_blank">
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=4C1D95" />
 </a>
 
 <br><br>
@@ -57,8 +59,8 @@
 
 <br>
 
-<a href="https://snpsu.dpdns.org/">
-  <img src="https://img.shields.io/badge/↗%20Visit%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=020617"/>
+<a href="https://snpsu.dpdns.org/" target="_blank">
+<img src="https://img.shields.io/badge/↗%20Visit%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=020617" />
 </a>
 
 </div>
