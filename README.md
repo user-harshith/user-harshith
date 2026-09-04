@@ -39,7 +39,7 @@
 <tr>
 <td align="center">
 
-<h3>✦ Personal Portfolio &amp; Projects</h3>
+<h3>✦ Personal Portfolio &amp; Projects ✦</h3>
 
 <p>
   <i>Projects&nbsp;&nbsp;•&nbsp;&nbsp;Skills&nbsp;&nbsp;•&nbsp;&nbsp;Work</i>
