@@ -27,15 +27,47 @@
 
 ## 🌐 My Portfolio
 
-<p align="center">
-  <a href="https://snpsu.dpdns.org/">
-    <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20WEBSITE-000000?style=for-the-badge" />
-  </a>
+<div align="center">
+
+<h2>🌐 My Portfolio</h2>
+
+<p>
+  <strong>A closer look at my work, projects &amp; digital journey.</strong>
 </p>
 
-<p align="center">
-  <b>Explore my projects, skills and work</b>
+<br>
+
+<table>
+<tr>
+<td align="center" width="500">
+
+### ✦ HARSHITH M
+
+<p>
+<i>Personal Portfolio &amp; Projects</i>
 </p>
+
+<br>
+
+<a href="https://snpsu.dpdns.org/">
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
+</a>
+
+<br><br>
+
+<sub>Projects&nbsp;&nbsp;•&nbsp;&nbsp;Skills&nbsp;&nbsp;•&nbsp;&nbsp;Work</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://snpsu.dpdns.org/">
+  <img src="https://img.shields.io/badge/↗%20Visit%20Website-161B22?style=flat-square&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
