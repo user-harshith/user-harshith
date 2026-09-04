@@ -11,7 +11,7 @@
 
 ### 💫 About Me:
 * 💻 I’m currently learning **Java, SQL, and JavaScript**
-* 📫 Reach out to me at **harshithms11@gmail.com**
+* 📫 Reach out to me at **harshithm11s@gmail.com**
 
 ---
 
