@@ -35,21 +35,21 @@
 
 <br>
 
-<table style="border: 2px solid #8B5CF6;">
+<table width="600" cellpadding="30" cellspacing="0" border="2" bordercolor="#8B5CF6">
 <tr>
-<td align="center" width="500">
+<td align="center">
 
 <p>
 <i>Personal Portfolio &amp; Projects</i>
 </p>
 
-<br>
+<br><br>
 
 <a href="https://snpsu.dpdns.org/">
 <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=4C1D95"/>
 </a>
 
-<br><br>
+<br><br><br>
 
 <sub>Projects&nbsp;&nbsp;•&nbsp;&nbsp;Skills&nbsp;&nbsp;•&nbsp;&nbsp;Work</sub>
 
@@ -60,7 +60,7 @@
 <br>
 
 <a href="https://snpsu.dpdns.org/">
-  <img src="https://img.shields.io/badge/↗%20Visit%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=020617"/>
+<img src="https://img.shields.io/badge/↗%20Visit%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=020617"/>
 </a>
 
 </div>
