@@ -25,11 +25,9 @@
 
 ---
 
-## 🌐 My Portfolio
 
-<div align="center">
 
-<h2>🌐 My Portfolio</h2>
+<h2>🌐 My PORTFOLIO</h2>
 
 <p>
   <strong>A closer look at my work, projects &amp; digital journey.</strong>
