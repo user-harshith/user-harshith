@@ -39,8 +39,6 @@
 <tr>
 <td align="center" width="500">
 
-### ✦ HARSHITH M
-
 <p>
 <i>Personal Portfolio &amp; Projects</i>
 </p>
