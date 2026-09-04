@@ -35,39 +35,29 @@
 
 <br>
 
-<table width="760">
+<table width="900" cellpadding="50" cellspacing="0">
 <tr>
-<td align="center" style="padding: 45px 30px;">
+<td align="center">
 
 <p>
   <i>Personal Portfolio &amp; Projects</i>
 </p>
 
-<br><br>
-
-<a href="https://snpsu.dpdns.org/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"
-    alt="Explore Portfolio"
-  />
-</a>
-
 <br><br><br>
 
+<a href="https://snpsu.dpdns.org/" target="_blank">
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+</a>
+
+<br><br><br><br>
+
 <sub>Projects&nbsp;&nbsp;•&nbsp;&nbsp;Skills&nbsp;&nbsp;•&nbsp;&nbsp;Work</sub>
+
+<br><br>
 
 </td>
 </tr>
 </table>
-
-<br>
-
-<a href="https://snpsu.dpdns.org/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/↗%20VISIT%20WEBSITE-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"
-    alt="Visit Website"
-  />
-</a>
 
 </div>
 
