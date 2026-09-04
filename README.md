@@ -35,13 +35,9 @@
 
 <br>
 
-<table width="100%" cellpadding="2" cellspacing="0" border="0">
+<table width="650">
 <tr>
-<td bgcolor="#8B5CF6">
-
-<table width="100%" cellpadding="30" cellspacing="0" border="0" bgcolor="#0D1117">
-<tr>
-<td align="center">
+<td align="center" width="650">
 
 <p>
 <i>Personal Portfolio &amp; Projects</i>
@@ -57,9 +53,7 @@
 
 <sub>Projects&nbsp;&nbsp;•&nbsp;&nbsp;Skills&nbsp;&nbsp;•&nbsp;&nbsp;Work</sub>
 
-</td>
-</tr>
-</table>
+<br><br>
 
 </td>
 </tr>
