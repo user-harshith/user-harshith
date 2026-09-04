@@ -35,7 +35,11 @@
 
 <br>
 
-<table width="600" cellpadding="30" cellspacing="0" border="2" bordercolor="#8B5CF6">
+<table width="100%" cellpadding="2" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#8B5CF6">
+
+<table width="100%" cellpadding="30" cellspacing="0" border="0" bgcolor="#0D1117">
 <tr>
 <td align="center">
 
@@ -52,6 +56,10 @@
 <br><br><br>
 
 <sub>Projects&nbsp;&nbsp;•&nbsp;&nbsp;Skills&nbsp;&nbsp;•&nbsp;&nbsp;Work</sub>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
