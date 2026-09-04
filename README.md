@@ -35,9 +35,13 @@
 
 <br>
 
-<table width="650">
+<table width="650" cellpadding="4" cellspacing="0" border="0">
 <tr>
-<td align="center" width="650">
+<td bgcolor="#8B5CF6">
+
+<table width="100%" cellpadding="35" cellspacing="0" border="0">
+<tr>
+<td align="center" bgcolor="#0D1117">
 
 <p>
 <i>Personal Portfolio &amp; Projects</i>
@@ -53,7 +57,9 @@
 
 <sub>Projects&nbsp;&nbsp;•&nbsp;&nbsp;Skills&nbsp;&nbsp;•&nbsp;&nbsp;Work</sub>
 
-<br><br>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -66,7 +72,6 @@
 </a>
 
 </div>
-
 ---
 
 ### 📊 GitHub Stats:
